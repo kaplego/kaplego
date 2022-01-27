@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **kaplego/kaplego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a French developer.
+I know HTML, CSS, PHP, Javascript and Java.
+I am learning lua and Roblox Developers.
+
+I am working on multiple projets. My main project is [SharMeSocial](https://github.com/SharMeSocial).
+
+I'm working in freelance on [Fiverr](https://fr.fiverr.com/kaplegoweb) (kaplegoweb).
