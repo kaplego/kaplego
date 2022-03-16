@@ -1,25 +1,13 @@
 Hi there 👋
 =======================
-<!--
-**kaplego/kaplego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 I am a French developer.
 I know HTML, CSS, PHP, Javascript and Java.
 I am learning lua and Roblox Developers.
 
-I am working on multiple projets. My main project is [SharMe](https://github.com/SharMeSocial), a reliable social network, in development.
+I am working on multiple projets.
+- [SharMe](https://github.com/SharMeSocial), a reliable social network, in development.
+- [PeyBot](https://www.peybot.tk), a multifunctions multiplatforms chatbot.
 
 I'm working in freelance on [Fiverr](https://fr.fiverr.com/kaplegoweb) (kaplegoweb).
 
