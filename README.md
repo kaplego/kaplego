@@ -3,7 +3,7 @@ Hi there 👋
 
 I am a French developer.
 I know HTML, CSS, PHP, Javascript and Java.
-I am learning lua and Roblox Developers.
+I am learning lua and Roblox Dev.
 
 I am working on multiple projets.
 - [SharMe](https://github.com/SharMeSocial), a reliable social network, in development.
