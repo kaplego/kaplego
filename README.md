@@ -1,5 +1,6 @@
 Hi there 👋
 =======================
+[Support me and my projects](https://github.com/kaplego/kaplego/blob/main/.github/FUNDING.yml)
 
 I am a French developer.
 I know HTML, CSS, PHP, Javascript and Java.
