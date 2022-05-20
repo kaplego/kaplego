@@ -12,4 +12,4 @@ I am working on multiple projets.
 
 I'm working in freelance on [Fiverr](https://fr.fiverr.com/kaplegoweb) (kaplegoweb).
 
-You can contact me on Discord (kaplego#8381), Twitter ([kaplego_fr](https://twitter.com/kaplego_fr)), [Revolt](https://revolt.chat) ([kaplego](https://app.revolt.chat/channel/01FWV3005H5EYDQTFTDDQGWHK6)).
+You can contact me on Discord (kaplego#8381), Twitter ([kaplego_fr](https://twitter.com/kaplego_fr)), [Revolt](https://revolt.chat) ([kaplego](https://app.revolt.chat/invite/72VSyQ8h)).
