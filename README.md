@@ -8,7 +8,7 @@ I am learning lua and Roblox Dev.
 
 I am working on multiple projets.
 - [SharMe](https://github.com/SharMeSocial), a reliable social network, in development.
-- [PeyBot](https://www.peybot.tk), a multifunctions multiplatforms chatbot.
+- [PeyBot](https://peybot.sharme.eu), a multifunctions multiplatforms chatbot.
 
 I'm working in freelance on [Fiverr](https://fr.fiverr.com/kaplegoweb) (kaplegoweb).
 
